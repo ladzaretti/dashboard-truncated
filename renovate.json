@@ -1,0 +1,11 @@
+{
+  "packageRules": [
+        {
+            "schedule": ["after 10pm before 11pm"],
+            "matchUpdateTypes": [
+                "minor",
+                "patch"
+            ],
+        }
+    ],
+}
